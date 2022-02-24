@@ -1,6 +1,6 @@
 Hi, I’m Charlie Austin, an Applied Mathematics and Computer Science student at Texas A&M University.
 
-I have experience with Python through multiple college courses, and am currently learning C++.
+I have experience with Python through multiple college courses, and am currently learning C/C++.
 
 For my classes, Github is an optional way to submit code for homework assignments and projects.  I know that Github is something I will
 be using every day in my career in the future, so I wanted to take it upon myself to become familiar with it now.
